@@ -53,6 +53,3 @@ place-matters-indonesia/
 
 Queen contiguity + k-NN (k=3) hybrid, row-standardized. The k-NN component handles archipelagic districts that share no land borders.
 
-## Citation
-
-If you use this code or data, please cite the paper above and the original data sources.
