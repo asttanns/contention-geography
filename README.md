@@ -1,4 +1,4 @@
-# place-matters-indonesia
+# Does Place Matter? The Geography of Repression and Mobilization in Indonesia
 
 District-year panel analysis of state repression and protest mobilization in Indonesia (2019–2024). Tests whether built-up density (NDBI, Landsat 8) moderates the effect of routine repression on protest using ACLED event data, GADM Level 2 boundaries, and spatial econometrics (Moran's I, LISA, SAR/SEM). Preliminary cross-section: 395 districts.
 
