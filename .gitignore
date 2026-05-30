@@ -1,0 +1,31 @@
+# Raw data — not redistributed
+data/raw/
+data/acled_idn_2019_2025.csv
+
+# Auto-generated processed files (reproducible from notebook)
+data/processed/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large raster files
+*.tif
+*.tiff
+*.nc
+
+# Credentials
+*.env
+secrets.py
